@@ -20,7 +20,6 @@ A Java-based banking system application with database integration, allowing user
 - **Language**: Java 17
 - **Build Tool**: Maven
 - **Database**: MySQL
-- **ORM**: Hibernate 5.4.4
 - **Database Driver**: MySQL Connector/J 5.1.49
 
 ## Project Structure
