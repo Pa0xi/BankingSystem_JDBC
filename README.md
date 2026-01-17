@@ -147,7 +147,7 @@ Data Access Object pattern implementation for database operations:
 - Delete accounts
 
 ### DBConnection
-Manages MySQL database connections using Hibernate.
+Manages MySQL database connections using sql.Connection.
 
 ### Menu
 Provides user interface menus for:
@@ -178,7 +178,7 @@ The system includes validation for:
 
 ## License
 
-This project is part of the ESTEM STUDY - Java Standard course.
+This project is part of the MY STUDIES - Java Standard course.
 
 ## Author
 
